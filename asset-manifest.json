@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/web-developer-interview-preparation/static/css/main.9882a8a7.css",
+    "main.js": "/web-developer-interview-preparation/static/js/main.b8ae5fd4.js",
+    "static/media/behavioral-interview-answers.pdf": "/web-developer-interview-preparation/static/media/behavioral-interview-answers.0a1a6ea669d1d947d8d6.pdf",
+    "index.html": "/web-developer-interview-preparation/index.html",
+    "main.9882a8a7.css.map": "/web-developer-interview-preparation/static/css/main.9882a8a7.css.map",
+    "main.b8ae5fd4.js.map": "/web-developer-interview-preparation/static/js/main.b8ae5fd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9882a8a7.css",
+    "static/js/main.b8ae5fd4.js"
+  ]
+}
